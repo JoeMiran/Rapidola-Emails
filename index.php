@@ -13,7 +13,7 @@
 		<div class="container">  
 
 			<div class="py-3 text-center">
-				<img class="d-block mx-auto mb-2" src="logo.png" alt="" width="72" height="72">
+				<img class="d-block mx-auto mb-2" src="img/logo.png" alt="" width="72" height="72">
 				<h2>Rapidola</h2>
 				<p class="lead">Enviei seu email de forma mais objetiva com o Rapidola email</p>
 			</div>
@@ -25,17 +25,17 @@
 						<form action="processa_envio.php" method='POST'>
 							<div class="form-group">
 								<label for="para">Para</label>
-								<input type="text" class="form-control" id="para" placeholder="exemplo@email.com">
+								<input name="para" type="text" class="form-control" id="para" placeholder="exemplo@email.com">
 							</div>
 
 							<div class="form-group">
 								<label for="assunto">Assunto</label>
-								<input type="text" class="form-control" id="assunto" placeholder="Assundo do e-mail">
+								<input name="assunto" type="text" class="form-control" id="assunto" placeholder="Assundo do e-mail">
 							</div>
 
 							<div class="form-group">
 								<label for="mensagem">Mensagem</label>
-								<textarea class="form-control" id="mensagem"></textarea>
+								<textarea name="mensagem" class="form-control" id="mensagem"></textarea>
 							</div>
 
 							<button type="submit" class="btn btn-primary btn-lg">Enviar</button>
