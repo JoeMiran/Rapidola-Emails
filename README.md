@@ -1,4 +1,4 @@
-# app_send_mail
+# Rapidola Emails
 🚀 Aplicação:
 - 
 *$this*-> Esse é uma aplicação simples e usual, desenvolvida em PHP para enviar emails através do serviço de SMTP do Gmail sem que seja necessário abrir o navegador e entrar em sua conta do Gmail.
