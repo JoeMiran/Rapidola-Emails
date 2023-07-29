@@ -5,7 +5,7 @@
 
 🎯Objetivos:
 -
--> Aprender a utilizar bibliotecas do PHP.
+-> Aprender a utilizar bibliotecas do PHP.\n
 -> Colocar em prática os conceitos de Programação Orientada a Objetos com PHP.
 -> Treinar a interação do Front-End com o Back-End da aplicação.
 -> Por em prática a utilização das classes do Bootstrap para estilização do projeto.
